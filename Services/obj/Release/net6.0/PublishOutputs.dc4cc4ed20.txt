@@ -1,0 +1,7 @@
+C:\Users\Ouhaj Oussama\Desktop\Services\publish\Services.exe
+C:\Users\Ouhaj Oussama\Desktop\Services\publish\appsettings.Development.json
+C:\Users\Ouhaj Oussama\Desktop\Services\publish\appsettings.json
+C:\Users\Ouhaj Oussama\Desktop\Services\publish\Services.dll
+C:\Users\Ouhaj Oussama\Desktop\Services\publish\Services.deps.json
+C:\Users\Ouhaj Oussama\Desktop\Services\publish\Services.runtimeconfig.json
+C:\Users\Ouhaj Oussama\Desktop\Services\publish\Services.pdb
